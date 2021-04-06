@@ -1,3 +1,13 @@
+# Kraplow
+
+### Docker Version
+
+`docker run --rm -p 8080:8080 robertod91/bang-kraplow:latest`
+
+and open http://localhost:8080/westerncardgame/
+
+### Original readme
+
 ![alt tag](https://raw.github.com/ccarrster/kraplow/master/westerncardgame/logo2.png)
 ```
 # kraplow
